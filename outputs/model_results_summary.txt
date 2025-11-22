@@ -1,0 +1,37 @@
+===== Summary of All Models =====
+
+
+SVM:
+  Accuracy: 0.9895
+  Precision: 0.9875
+  Recall: 0.9875
+  F1 Score: 0.9875
+  AUC: 0.9998
+
+Naive Bayes:
+  Accuracy: 0.9737
+  Precision: 0.9747
+  Recall: 0.9625
+  F1 Score: 0.9686
+  AUC: 0.9982
+
+MLP:
+  Accuracy: 0.9789
+  Precision: 0.9524
+  Recall: 1.0000
+  F1 Score: 0.9756
+  AUC: 0.9978
+
+CNN:
+  Accuracy: 0.9842
+  Precision: 0.9753
+  Recall: 0.9875
+  F1 Score: 0.9814
+  AUC: 0.9989
+
+LSTM:
+  Accuracy: 0.9474
+  Precision: 0.9070
+  Recall: 0.9750
+  F1 Score: 0.9398
+  AUC: 0.9972
